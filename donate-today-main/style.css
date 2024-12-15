@@ -1,0 +1,189 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+*{
+  font-family: "Inter", sans-serif;
+}
+  .container{
+    text-align: center;
+    padding-top: 200px;
+    position: relative;
+  }
+  .heading{
+    font-weight: 700;
+    font-size: 65px;
+    color: #FFFFFF;
+  }
+  .para{
+    font-size: 16px;
+    color: #FFFFFF;
+  }
+  .b{
+    border-radius: 5px;
+    background-color: #FF5959;
+    color: #FFFFFF;
+    padding: 16px 20px;
+    border: none;
+  }
+  .donat{
+    text-align: center;
+    font-weight: 700;
+    font-size: 45px;
+    color: #121212;
+    margin-top: 260px;
+  }
+  .donat1{
+    text-align: center;
+    font-size: 18px;
+    color: #707070;
+    margin-bottom: 50px;
+  }
+  .mother{
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    margin-left: 350px;
+    margin-right: 350px;
+  }
+  .mimi{
+    box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.2);
+    padding: 15px;
+    color: #707070;
+    font-weight: 700;
+    font-size: 30px;
+    border-radius: 5px;
+  }
+  .miimi{
+    color: #FF5959;
+    background-color: #FFEEEE;
+    border: 1px solid #FF5959;
+    padding: 15px;
+    font-weight: 700;
+    font-size:30px ;
+    border-radius: 5px;
+  }
+  .taka{
+    text-align: center;
+    color: #B3B3B3;
+    font-size: 18px;
+    margin-top: 60px;
+  }
+  hr{
+    margin-left: 350px;
+    margin-right: 350px;
+  }
+  .a{
+    border-radius: 5px;
+    background-color: #FF5959;
+    color: #FFFFFF;
+    padding: 16px 20px;
+    border: none;
+    margin-top: 60px; 
+    margin-left:700px ; 
+  }
+  .plan{
+    text-align: center;
+    margin-top: 130px;
+    font-weight: 700;
+    font-size: 45px;
+    color: #121212;
+  }
+  .plan1{
+    text-align: center;
+    font-size: 18px;
+    color: #707070;
+  }
+  .vutu{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 150px;
+    margin-right: 150px;
+  }
+  .vutu1{
+    border-radius: 5px;
+    background-color: #4F9DA61A;
+    padding: 50px;
+  }
+  .vutu2{
+    border-radius: 5px;
+    background-color: #ff59591A;
+    padding: 50px;
+  }
+  .vutu3{
+    border-radius: 5px;
+    background-color:#fff4d6; 
+    padding: 50px;
+  }
+  .head{
+    display: flex;
+    margin-left:150px ;
+    margin-top: 130px;
+  
+  }
+  .img{
+    height: 400px;
+    width: 600px;
+    margin-left:80px;
+  }
+  .h{
+    font-weight: 700;
+    font-size: 45px;
+    color: #121212;
+  }
+  .p{
+    font-size: 18px;
+    color: #707070;
+  }
+  .head2{
+    display: flex;
+    margin-left: 150px;
+    margin-top: 130px;
+  }
+  .container{
+    text-align: center;
+  }
+  .img2{
+    height: 400px;
+    width: 600px;
+    margin-right: 80px;
+  }
+.dd{
+  background-color: #fff4d6;
+  margin-top: 50px;
+  margin-right:350px;
+  margin-left: 350px;
+  height: 200px;
+}
+.bb{
+  border-radius: 5px;
+  background-color: #FF5959;
+  color: #FFFFFF;
+  padding: 16px 20px;
+  border: none;
+}
+.ju{
+  padding: 80px;
+  margin-left: 150px;
+}
+.ii{
+  padding: 16px;
+  color: #D9D9D9;
+  border-radius: 5px;
+  border: none;
+}
+.jj{
+background-color:#0B0D17;
+text-align: center;
+margin-top: 130px;
+padding: 50px;
+}
+.hh{
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+  color: #FF5959;
+  font-family: "Lobster", sans-serif;
+  font-size: 36px;
+}
+.pp{
+  font-size: 14px;
+  color: #D9DBE1;
+}
